@@ -4,3 +4,4 @@ def badge_maker(name)
 end
 
 do badge_maker(Arel)
+end
